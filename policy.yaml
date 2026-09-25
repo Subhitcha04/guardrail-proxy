@@ -1,0 +1,9 @@
+checks:
+  pii:
+    action: redact
+  topic_denial:
+    action: block
+    topics:
+      - medical_advice
+      - legal_advice
+    threshold: 0.75
