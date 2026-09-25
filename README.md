@@ -315,7 +315,3 @@ error.
 - Rate limiting and per-client quota enforcement
 - Structured request tracing / OpenTelemetry integration
 - Streaming response support
-
-## License
-
-MIT — see [LICENSE](LICENSE).
